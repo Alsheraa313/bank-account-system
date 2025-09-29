@@ -6,7 +6,7 @@
 
 /*
 To Add:
-1) possible web implamentation via html/css
+1) possible web implementation via html/css
 2) password and account encrytion via hashmaps before storage into maps
 3) proper account id creation method
 
